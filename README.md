@@ -20,6 +20,11 @@ A simple **command-line task manager** built with Python. Allows users to:
 
 ---
 
+## Idea: 
+https://roadmap.sh/projects/task-tracker
+
+---
+
 ## Run It
 
 ```bash
